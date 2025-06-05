@@ -1,0 +1,2 @@
+# AnimeDami
+azərbaycanca subtitrli animelər
