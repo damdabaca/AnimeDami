@@ -1,3 +1,3 @@
 # AnimeDami
 AZƏRBAYCANCA ANİMELƏR
-Tokio qisasçıları
+"Tokio qisasçıları"
