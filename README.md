@@ -3,10 +3,10 @@
 <html lang="az">
 <head>
     <meta charset="UTF-8">
-    <title>Anime Dami</title>
+    <title>Anime Damı</title>
 </head>
 <body>
-    <h1>Anime Dami'ya xoş gəlmisiniz!</h1>
-    <p>Burada sevdiyiniz anime-lərə azərbaycanca baxa bilərsiniz.</p>
+    <h1>"Anime Damı"mıza xoş gəlmisiniz!</h1>
+    <p>Animeyə bax.</p>
 </body>
 </html>
