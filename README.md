@@ -1,2 +1,2 @@
 # AnimeDami
-azərbaycanca subtitrli animelər
+AZƏRBAYCANCA ANİMELƏR
